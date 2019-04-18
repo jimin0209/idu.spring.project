@@ -1,0 +1,5 @@
+package iducs.spring.boot.controller;
+
+public class QnaBoardController {
+
+}
